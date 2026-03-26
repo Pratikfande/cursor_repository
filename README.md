@@ -17,5 +17,5 @@ Steps I have completed
 - Created README.md, commited changes and pushed it to GitHub
 
 Issue faced & solutions
-- Issue: While creating repository I accidently created README.md file, which I was supposed to create through Cursor.
-- Solution: I deleted that file from GitHub and created it again from Cursor.
+- Issue: While creating repository I accidently created README.md file, which I was supposed to create through Cursor. I tried to delete it but couldn't fint the delete button.
+- Solution: So, I used Google search and with the help of Google AI Overview I deleted that file from GitHub and created it again from Cursor.
